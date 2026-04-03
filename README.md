@@ -51,11 +51,10 @@
 - 🎯 GATE 2026 Qualified  
 
 ---
-
 ## 📊 GitHub Stats:
-![Ved's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ved1001&show_icons=true&theme=tokyonight)
+![Ved's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ved1001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ---
 
 ## 🔥 Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ved1001&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ved1001&layout=compact&theme=tokyonight&hide_border=true)
